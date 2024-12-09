@@ -1,0 +1,23 @@
+{
+    "name": "telegram-bot-calendar-lite",
+    "version": "1.0.14",
+    "description": "Calendar for telegram bot",
+    "main": "lib/index.js",
+    "scripts": {
+        "start": "node lib/index.js"
+    },
+    "keywords": [
+        "calendar",
+        "datepicker",
+        "plugin",
+        "telegram",
+        "telegram-bot",
+        "telegram-bot-calendar-lite",
+        "telegram-bot-calendar"
+    ],
+    "author": "miwist@mail.ru",
+    "license": "ISC",
+    "files": [
+        "lib/**/*"
+    ]
+}
