@@ -97,5 +97,3 @@ const botCallback = bot.on("callback_query", async (msg, match) => {
 • setDatesLock(datesLock) // Sets an array of dates to block.
 
 ```
-
-...[https://badge.fury.io/js/telegram-bot-calendar-lite.svg](https://badge.fury.io/js/telegram-bot-calendar-lite)...
