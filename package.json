@@ -1,6 +1,6 @@
 {
   "name": "telegram-bot-calendar-lite",
-  "version": "1.0.15",
+  "version": "1.0.18",
   "description": "Calendar for telegram bot",
   "main": "lib/index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "author": "miwist@mail.ru",
   "license": "ISC",
   "files": [
-    "lib/**/*"
+    "lib/**/*",
+    "README.md"
   ]
 }

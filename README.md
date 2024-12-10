@@ -16,10 +16,10 @@ npm install telegram-bot-calendar-lite
 | selectDay     | string   | current day         | helps in choosing multiple dates     |
 | monthNames    | string[] | Russian month names | Months names                         |
 | datesLock     | Date[]   | []                  | closes selected dates                |
-| closeIcon     | string   | "❌"               | choose next month icon               |
-| selectIcon    | string   | "✅"                | choodr prev month icon               |
+| closeIcon     | string   | "❌"                | choose next month icon               |
+| selectIcon    | string   | "✅"                | choose prev month icon               |
 | nextMonthIcon | string   | ">>>"               | choose next month icon               |
-| prevMonthIcon | string   | "<<<"               | choodr prev month icon               |
+| prevMonthIcon | string   | "<<<"               | choose prev month icon               |
 
 ## Using sample
 
