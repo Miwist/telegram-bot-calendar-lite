@@ -1,6 +1,6 @@
 {
   "name": "telegram-bot-calendar-lite",
-  "version": "1.0.18",
+  "version": "1.0.20",
   "description": "Calendar for telegram bot",
   "main": "lib/index.js",
   "scripts": {
