@@ -97,6 +97,10 @@ const botCallback = bot.on("callback_query", async (msg, match) => {
 • setDatesLock(datesLock) // Sets an array of dates to block.
 ```
 
+### Связаться со мной
+
+Мой [telegram](https://t.me/miwist)
+
 # Calendar [ENG]
 
 Easy Telegram calendar creation
